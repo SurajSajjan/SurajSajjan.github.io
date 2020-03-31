@@ -7,10 +7,9 @@ header:
 categories: Programming
 ---
 
-**Introduction:**
-
-In this project, we write code for a couple of problems using two of the programming languages namely, C++ and Julia. We shall discuss the complexity of writing code in each language and also compare the performance of each of the language to the other.
+**Introduction:**In this project, we write code for a couple of problems using two of the programming languages namely, C++ and Julia. We shall discuss the complexity of writing code in each language and also compare the performance of each of the language to the other.
 We are using atom IDE on CentOS for writing C++ codes. We are using Jupyter notebook with Julia on Windows 10 for writing Julia code.
+
 Before we start with the analysis, let us look at some of the Pros and Cons of C++ and Julia.
 
 **C++:**
