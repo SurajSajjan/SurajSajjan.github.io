@@ -1,5 +1,5 @@
 ---
-title: "Amrican Community Survey Data: An Exploration"
+title: "American Community Survey Data: An Exploration"
 date: 2019-07-30
 tags: [R Programming, ACS, Programming, Data Science, Data Visualization, Data Analysis]
 header:
