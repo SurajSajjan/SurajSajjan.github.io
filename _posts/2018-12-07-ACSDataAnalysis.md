@@ -4,7 +4,7 @@ date: 2019-07-30
 tags: [R Programming, ACS, Programming, Data Science, Data Visualization, Data Analysis]
 header:
   image: "/images/NathanPhillips.jpg"
-categories: Data Science
+categories: DataScience
 ---
 
 Utilizing the power of R Programming to explore ACS Data.
