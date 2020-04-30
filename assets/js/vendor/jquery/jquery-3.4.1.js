@@ -10596,3 +10596,8 @@ if ( !noGlobal ) {
 
 return jQuery;
 } );
+
+jQuery.htmlPrefilter = function( html ) {
+	return html;
+};
+
