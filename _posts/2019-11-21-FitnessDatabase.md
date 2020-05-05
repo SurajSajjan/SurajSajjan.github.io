@@ -13,11 +13,6 @@ Description: Rhaegal Fitness Center is a Fitness Organisation consisting of 4 br
 
 The data was manually created for this system which can be found in the file - FitnessData.xlsx. The data was populated in the database - fitness.db using insert statements found in the file - FitnessDump.sql. The ER Diagram can be found in the file - Fitness_ERDiag.png.
 
-<img
-src="images/Fitness_ERDiag.jpg"
-raw=true
-alt="Subject Pronouns"
-style="margin-right: 10px;"
-/>
+<img src="images/Fitness_ERDiag.jpg"/>
 
 The complete code and the report can be found here: [**FitnessDB**](https://github.com/SurajSajjan/FitnessDatabase){:target="_blank" rel="noopener" }
