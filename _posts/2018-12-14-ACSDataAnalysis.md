@@ -15,7 +15,13 @@ Exploratory analysis such as the distribution of Hindi speaking population based
 Null Hypothesis: There is no relationship between the total income and the salary income in the past year. The slope of a regression line is zero.
 Alternate Hypothesis: There exists a relationship between the total income and the salary income from the past year. The slope is not zero.
 
-From the model, we observe a p-value of 2.2X10^−16. This is significantly less when compared to the alpha value of 0.05, Hence we reject the null hypothesis and say there exists a relation between the total income of a person to his salary income in the past year. We see that the intercept is 6.25X103 and the slope is 1.022. Hence the equation of regression can be formulated as: PINCP = 1.022(WAGP) + 6.25X10^3. According to the model, if the salary income for the year is zero, the total income would be 6.25X103. We observe that the coefficient t-value is 200.47. The further away from 0, the better. We observe an R-squared value of 0.8534. This value is used to determine how well the model fits the data. Hence the model can be accurate upto 85.34%. The F-statistic is 4.019X10^4 The further away the value from 0, the better.
+From the model, we observe a p-value of 2.2X10^−16. This is significantly less when compared to the alpha value of 0.05, Hence we reject the null hypothesis and say there exists a relation between the total income of a person to his salary income in the past year. We see that the intercept is 6.25X10^3 and the slope is 1.022. Hence the equation of regression can be formulated as: PINCP = 1.022(WAGP) + 6.25X10^3(Where PINCP represents the total income of the person and WAGP represents the salary income of the past 12 months). According to the model, if the salary income for the year is zero, the total income would be 6.25X10^3. We observe that the coefficient t-value is 200.47. The further away from 0, the better. We observe an R-squared value of 0.8534. This value is used to determine how well the model fits the data. Hence the model can be accurate upto 85.34%. The F-statistic is 4.019X10^4 The further away the value from 0, the better.
 
-The dataset can be found from the following webiste - https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_pums_csv_2012_2016&prodType=document
+The dataset can be found from the following webiste - https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_pums_csv_2012_2016&prodType=document.
+
 Please refer the file ACSDataAnalysis_Report for the detailed project report here: [**ACS**](https://github.com/SurajSajjan/ACSDataAnalysis/blob/master/ACSDataAnalysis_Report.pdf){:target="_blank" rel="noopener" }
+
+
+
+
+  
